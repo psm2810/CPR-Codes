@@ -1,0 +1,473 @@
+,id,text,month,year,sentiment,Category
+0,R_1QXxniNV3YpqUPq,It was about new vehicle,Aug,2024,neutral,Product related
+1,R_3DhVOZ3PTKZkWgp,Yes I have seen commercials for ford,Aug,2024,neutral,Other
+2,R_5Ea54NwgY2tkvR6,buy a ford product,Aug,2024,neutral,Other
+3,R_1YEbWB9AKWFLJnK,largest employer in usa,Aug,2024,neutral,Other
+4,R_1co47Ec7FvuwRpO,Fords recall of F-150 vehicles,Aug,2024,negative,Product related
+5,R_61oCMRBLbqLJcv6,There are sales.,Aug,2024,positive,Other
+6,R_1UhHzEcNWbdgIgh,New cars,Aug,2024,neutral,Product related
+7,R_1PBzk5UpqDyFyTI,NONE,Aug,2024,neutral,Other
+8,R_6O22hNQBzxKT6An,Advertising for Ford,Aug,2024,neutral,Other
+9,R_6R2dgUyyOssmWn7,That there was a recall,Aug,2024,negative,Product related
+10,R_1OcylR8TO0W6p7b,Building new battery plant in Kentucky,Aug,2024,positive,Product related
+11,R_7CZLR90afog5Z7z,Ford motor company invent a enviroment friendly  new car,Aug,2024,positive,Organization feedback
+12,R_7u299q4MAEsdKXT,size and suspension,Aug,2024,neutral,Other
+13,R_3eKmWplk8z1C7qT,That theynare makimg a new hesvy duty truck,Aug,2024,neutral,Product related
+14,R_7r0H2VyJ8ihufRv,stock performance,Aug,2024,neutral,Organization feedback
+15,R_1rI7rJAeQNZEip6,Truck on sale,Aug,2024,neutral,Product related
+16,R_7DuK1PZ5aGEZJoy,Don’t know,Aug,2024,neutral,Other
+17,R_6X5xxwgtHXXRbqN,Nothing,Aug,2024,neutral,Other
+18,R_7qOrDlPWCwDBXrr,Ford mustang ev version,Aug,2024,neutral,Product related
+19,R_6m36KyWTT7eucFR,We like ford all american company,Aug,2024,positive,Branding
+20,R_3OCC8LO521YX16g,About the mustang ev,Aug,2024,neutral,Product related
+21,R_1sICWzHgHOzEShH,A recall on pickup truck F150,Aug,2024,negative,Product related
+22,R_7kAQqQS46deiL4G,No,Aug,2024,negative,Other
+23,R_3kcyE1zRdzYvKzf,Promoting sales on products,Aug,2024,neutral,Other
+24,R_7CCgrwStUQi257E,A sponser of the olympics,Aug,2024,neutral,Other
+25,R_72Kc8M8c3rUGPpo,Innovative technologies included in the latest vehicles,Aug,2024,positive,"New technology, unique features or services"
+26,R_5Uhc8NoraaDpqW1,They are venturing into EVs,Aug,2024,neutral,Electrification
+27,R_71tJ8eih89mIk0J,sales stable,Aug,2024,neutral,Organization feedback
+28,R_51jFOuYz0tbkHyS,About the new electric cars,Aug,2024,neutral,Electrification
+29,R_7DbUat7wDaZZKB0,Going electric,Aug,2024,neutral,Electrification
+30,R_6rSOBwRRrJVNM0F,Selling pick up trucks,Aug,2024,neutral,Product related
+31,R_1QDl5poBpMDwL41,New cars coming,Aug,2024,neutral,Product related
+32,R_7EUuLB9TI6pCI37,The 2025 Ford  Raptor,Aug,2024,neutral,Product related
+33,R_5qswcXO13GEUbCo,There’s a new model of truck,Aug,2024,neutral,Product related
+34,R_36Wx7gzoqb4P477,They close down one is there ev plants cant sell the trucks,Aug,2024,negative,Product related
+35,R_1hVXM8BW9uz5GPh,Lower production of EVs,Aug,2024,negative,Electrification
+36,R_6HweXhAFT3NXNLa,I cant remember,Aug,2024,neutral,Other
+37,R_6IvBimizIknCtsl,The 2025 models coming out,Aug,2024,neutral,Product related
+38,R_6P1XQoX0OpksPIZ,Was about the quality of the product,Aug,2024,neutral,Product related
+39,R_1djyvYO9ReLS8BX,Data breaches/Selling data to insurance companies/Traffic incidents,Aug,2024,negative,Other
+40,R_3IaZ7Oa90IYzWnC,Don’t remember,Aug,2024,neutral,Other
+41,R_3EcJIs0RKfpiyW8,It was a commercial I seen on TV,Aug,2024,neutral,Other
+42,R_3gtJYqhcLamicXj,new ev cars and trucks,Aug,2024,neutral,Product related
+43,R_1ACHmundaa1Euat,It was about new Ford products,Aug,2024,neutral,Product related
+44,R_5B96HUkaNE5baHr,It was launching new services in its dealership’s.,Aug,2024,neutral,Product related
+45,R_3Qg9H1YIlnB38r6,Commercial about new vehicles,Aug,2024,neutral,Product related
+46,R_1QQRxz3BhywVVgT,Commercial,Aug,2024,neutral,Other
+47,R_3IYi2COS1tGZvJa,It is very high quality and unique,Aug,2024,positive,Other
+48,R_1ffK6zw7Q6LvSTQ,The new F250 trucks and what is changing in current year,Aug,2024,neutral,Product related
+49,R_3pl6AclhYtIu52x,I saw an ad that they’re now making a New England specific truck model,Aug,2024,neutral,Product related
+50,R_52UP2UlTbJGWnWS,I heard very good new and upgrade,Aug,2024,positive,Other
+51,R_7ZAmNtvN3wFL8pb,New developments,Aug,2024,neutral,Other
+52,R_7D33bOW6FuIa3Yd,A commercial for one of their trucks,Aug,2024,neutral,Product related
+53,R_5Gwc5qlcPoEczVv,Recalls for air bag,Aug,2024,negative,Product related
+54,R_1WvY5UcZHJr6xNf,It was a recall about a certain model that was not safe for consumers.,Aug,2024,negative,Product related
+55,R_320DJrK1On6ERmF,That they are continuing building performance cars,Aug,2024,positive,Product related
+56,R_5CEHdsUrE9ELcDS,Na,Aug,2024,neutral,Other
+57,R_6usqi0FMuZju7EG,ProMotion,Aug,2024,neutral,Other
+58,R_5dhhNedSNOUQKgP,Ford trucks and how they run off roads,Aug,2024,neutral,Product related
+59,R_51oyFX2RzaHnR7j,Tv commercials,Aug,2024,neutral,Other
+60,R_7yPSD5r6X9q0DId,New cars,Aug,2024,neutral,Product related
+61,R_6iKg0JinHD1lEhc,They have a new truck out,Aug,2024,neutral,Product related
+62,R_6QcGgNHISsWJtWc,Has modern technology wifi capabilities going green,Aug,2024,neutral,Other
+63,R_71HxlDsH4H4je9y,They have a recall,Aug,2024,negative,Product related
+64,R_1DIswiuw9rV4s3n,I like the new services and products,Aug,2024,positive,Other
+65,R_43v7mnylnZ6Hzyx,The ad was about ford suv,Aug,2024,neutral,Product related
+66,R_5uS8Pv07SFZhKE1,no,Aug,2024,negative,Other
+67,R_30vOD0VtEpwxCfh,Anything,Aug,2024,neutral,Other
+68,R_3wT5jPCxiGO4RNv,both really,Aug,2024,neutral,Other
+69,R_3qdV1SnAVX2enzZ,Positive and opinions,Aug,2024,positive,Other
+70,R_52LJmWzlzhbxona,How many worker employed,Aug,2024,neutral,Corporate issues
+71,R_1dHpB4GKgdZt8I6,I’m not going back to the gym now I’m just getting back in my room and I’m not sure if I’m not gonna go back in time for the rest of the,Aug,2024,negative,Other
+72,R_6YhTiOzL05LIz7m,Commercial. Tough cars,Aug,2024,positive,Product related
+73,R_3d6KSRHZ3fNhBKQ,About the different low prices on there trucks and cars,Aug,2024,positive,Organization feedback
+74,R_5mkfgHKTphHQzqH,I dont recall,Aug,2024,neutral,Other
+75,R_5wySU19lXeSUThS,They are doing what they can to help the environment,Aug,2024,positive,Organization feedback
+76,R_1QsZWRNXr7ADQdP,Don’t remember,Aug,2024,neutral,Other
+77,R_71n0qAYildHHqTq,N e electric trucks,Aug,2024,neutral,Product related
+78,R_32yI7hZGsFtW9Yn,I think its a really good thing so I wash it again,Aug,2024,positive,Other
+79,R_71u4Womjf6Tsu4h,New trucks,Aug,2024,neutral,Product related
+80,R_3nHxtk7uYXe7B2V,Commercials on TV,Aug,2024,neutral,Other
+81,R_7bWz32hA9AxKeA9,The only way I could do that was if,Aug,2024,neutral,Other
+82,R_5Y4ck7LHRWJJ0iS,I read about their vehicles,Aug,2024,neutral,Product related
+83,R_5Q5y4iLHM5bYaSP,There was saying that they might lay off people because of the slow production because are not buying electric cars made from Ford Motors.,Aug,2024,negative,Organization feedback
+84,R_3vB0aVBdJ9vON3j,Built Ford Tough,Aug,2024,positive,Other
+85,R_1t3K72Kc5KqLaIp,Mostly new ads,Aug,2024,neutral,Product related
+86,R_3itFMMT5LzmSDwP,That they are making electric vehicles,Aug,2024,neutral,Electrification
+87,R_5t04x7UmwQgMh3F,Ford cars focusing on the environment,Aug,2024,positive,Organization feedback
+88,R_5E9daVSrbccgkSJ,It was on tv showing newest trucks on sale.,Aug,2024,neutral,Product related
+89,R_3LdRdm8we2cJVTM,TV ad,Aug,2024,neutral,Other
+90,R_12JWULG67kL1wTJ,Good news,Aug,2024,positive,Other
+91,R_7PGK3JzVsucIq62,How its coming out with its new hybrid.,Aug,2024,neutral,Product related
+92,R_6psBAv8Q10Uc7UI,i saw an advertizement on tv.,Aug,2024,neutral,Other
+93,R_3e8E2ED8fH0k8Kz,great innovation,Aug,2024,positive,"New technology, unique features or services"
+94,R_1hsB8pRwwgTCPQw,It was an advertisement for new fords,Aug,2024,neutral,Product related
+95,R_11WTV2hEcLK4Eoh,positive news,Aug,2024,positive,Other
+96,R_3RV5aUEUi1s4Acq,It was all cool to me,Aug,2024,positive,Other
+97,R_1FlcSvFtI4luqvU,Plants moving to Mexico,Aug,2024,negative,Corporate issues
+98,R_1KdoC1Ce8Wv4Z8L,They are a good brand,Aug,2024,positive,Branding
+99,R_3SrIj2HC0CceB77,Coming out with th the all electric lightning truck.,Aug,2024,positive,Electrification
+100,R_1DZibZXvMOOvnV0,cant remember it off the top of my head.,Aug,2024,neutral,Other
+101,R_6N9SNH8MS0WVRGy,Great prices n sales to match ur needs,Aug,2024,positive,Other
+102,R_3iqCgH6EG6sF2pz,Ford ad,Aug,2024,neutral,Other
+103,R_6qHXBTAC03rZeDt,The new Mustang,Aug,2024,neutral,Product related
+104,R_1dA98aJZsdYqRYk,It the new features,Aug,2024,neutral,Product related
+105,R_3oFbOvFnAlxJyDf,I saw an ad on TV,Aug,2024,neutral,Other
+106,R_76artipvtCowNlT,The three versions of the pick up regular hybrid or electric,Aug,2024,neutral,Product related
+107,R_5rZqbRwKwqrE0CJ,President visiting,Aug,2024,neutral,Other
+108,R_5YKU0w3mMlEuAiW,No specifics,Aug,2024,neutral,Other
+109,R_7WMTHAJJhck4ksX,How they are going to make new vehicles,Aug,2024,neutral,Product related
+110,R_7oYkbAZTMKzWz4E,It was an add to sell the product,Aug,2024,neutral,Other
+111,R_5sJKLNnsSQLAdY5,It was a very positive story,Aug,2024,positive,Other
+112,R_1rP2mzbTC0ASoqJ,I own a dissel 3500 truck love it I can put work to it and it still good,Aug,2024,positive,Product related
+113,R_5JsYZLKNBuG3MOJ,They have good cars,Aug,2024,positive,Branding
+114,R_6gTuLxotFdQQSqq,Commercials,Aug,2024,neutral,Other
+115,R_7Tpl7RoLc6r0okZ,about their new EV trucks,Aug,2024,neutral,Product related
+116,R_3eNhQrW6jo3E5QR,Recall issues,Aug,2024,negative,Product related
+117,R_5hcmqqsfEykXVrp,Just showing Fords Bronco,Aug,2024,neutral,Product related
+118,R_7EEoJIIiIu5FDvH,I’m going to go ahead with that one and get,Aug,2024,neutral,Other
+119,R_668zxrMyWUxdpRL,Can’t remember,Aug,2024,neutral,Other
+120,R_3WJn2gF2DX9AYbD,they are a leader in ev technology,Aug,2024,positive,Electrification
+121,R_3KFhxLH2kHDSGPL,Jst cmmercials gor f159 serues,Aug,2024,neutral,Product related
+122,R_7Hn6nWVEXbrNw4v,Advertising the New ford fi50,Aug,2024,neutral,Product related
+123,R_3ieqXkANK3RcU2i,It’s different,Aug,2024,neutral,Other
+124,R_1qUJlsoxtcyTgKa,Reliability,Aug,2024,neutral,Product related
+125,R_7kelOg52DbjcVix,typical advertisement,Aug,2024,neutral,Other
+126,R_6ezCgfm5Ozjs36X,safer trucks to drive more fuel efficient,Aug,2024,positive,Other
+127,R_7YDkgfcyeRtiv7Y,New cars coming out,Aug,2024,neutral,Product related
+128,R_5gSvEEfNqMO0YHn,The success of the company and how it’s making money and its employees are doing well.,Aug,2024,positive,Organization feedback
+129,R_15vf1bKvLWbLAQq,Reliable,Aug,2024,positive,Product related
+130,R_51jHs7j6HeKzq33,New vehicles in the works,Aug,2024,neutral,Product related
+131,R_3nZOQ2hEV1RX6Z4,That they are recalling a few different vehicles,Aug,2024,negative,Product related
+132,R_7J9iXfnZ7YPE1zH,New vehicle,Aug,2024,neutral,Product related
+133,R_77qEM4ug0qxCHWW,Ford hiring new Car Dealers,Aug,2024,neutral,Other
+134,R_3EGf0XE7pt4yh6n,Recalls on trucks,Aug,2024,negative,Product related
+135,R_64ZTU3H84zt5EYx,Its the best car company,Aug,2024,positive,Branding
+136,R_7nHhQicXaFcSAaX,New caes,Aug,2024,neutral,Product related
+137,R_6HhMeEAI6ZeFIpq,The deals on their cars,Aug,2024,neutral,Other
+138,R_11o2nXD4jW6eoOi,Yes it was a positive review,Aug,2024,positive,Other
+139,R_6XbbAyHvqu0D7ui,It was Bout the success of the company as whole.,Aug,2024,positive,Organization feedback
+140,R_5MFpzoy0MZgQPk5,Positive feedback,Aug,2024,positive,Other
+141,R_74z6QucKl6klyVz,,Aug,2024,neutral,Other
+142,R_1XlBUgFqcgMZEMV,New ford 2025,Aug,2024,neutral,Product related
+143,R_7FzEMDeI5GIJqD6,Reliable service,Aug,2024,positive,Other
+144,R_7gBWyrcYGsyUZFL,"No, sorry",Aug,2024,neutral,Other
+145,R_16bSL7T3eDX2FUX,Switching to eletric,Aug,2024,neutral,Electrification
+146,R_1iaZg9KFvOuxJ4d,Recall,Aug,2024,negative,Product related
+147,R_7dEEZp5qoZASbGO,it was a positive news story,Aug,2024,positive,Other
+148,R_3OV8GQPPzDXHKMf,New electric bike,Aug,2024,neutral,Other
+149,R_60aM8QFxs5SXzrj,"Ford issued a Do-No-Drive advisory for over 700,000 of their vehicles.",Aug,2024,negative,Product related
+150,R_3PplayYADPwuvRY,Just explaining that their brand is still there and has been standing for however many years theyve been,Aug,2024,neutral,Branding
+151,R_3CkLP8OQKKEZmuH,The cars and trucks are reliable,Aug,2024,positive,Product related
+152,R_1OYzF76LEF3egep,car crash,Aug,2024,negative,Other
+153,R_3kCeYu7L2GuBKAK,something about them being dropped or other company dropped them but idc I like ford,Aug,2024,positive,Other
+154,R_6W20XJ4opVHDDP3,Stock prices drop,Aug,2024,negative,Organization feedback
+155,R_1FJuSpGHMgGChGN,The EV battery plants being behind schedule and SUVs not selling well,Aug,2024,negative,Organization feedback
+156,R_3lvUUQRwjvFIcq5,Showing the up and coming off their new vehicles,Aug,2024,neutral,Product related
+157,R_3NUrjZ0HpWuzhsd,,Aug,2024,neutral,Other
+158,R_5n2GjUCQav2OXSF,It was just an ad about ford selling their cars.,Aug,2024,neutral,Other
+159,R_7mDuqsu0XsP8d8Z,No,Aug,2024,negative,Other
+160,R_1CjrzIT3whPJWly,Was an ad of some pick up truck,Aug,2024,neutral,Product related
+161,R_6aASPmWbJTkafPH,They were working on coming out with EV cars,Aug,2024,neutral,Electrification
+162,R_5xxF0EzBFo2rIiY,Dont know,Aug,2024,neutral,Other
+163,R_6EAK3sydmdZyLXy,It was a recall on the new Ford Bronco,Aug,2024,negative,Product related
+164,R_6o0a2Pg3RStuHdH,They are make millions of jobs for people,Aug,2024,positive,Other
+165,R_5nTK634eocVWtdY,"A person asked a mobile mechanic to look at their car, to determine if it was feasible to repair. The person was on a limited budget, and needed the car to be able to go to work. The mobile mechanic told the person after checking the vehicle that it was going to be extremely expensive and time consuming to fix, and they would be better served to get something else. Person was very upset and told the mechanic it wasnt possible with the limited income and the fact that they had been living in the vehicle. The mobile mechanic went to a local Ford dealership and bought that person a newer previously owned vehicle. Drove it to the spot where they had left the person and handed them the keys.   But it was going to",Aug,2024,positive,Product related
+166,R_3N5N5shpH6tJmSZ,Ford mustang,Aug,2024,neutral,Product related
+167,R_6Mcx0iIbMiSn1yV,New vehicles,Aug,2024,neutral,Product related
+168,R_5Y36fT9ejMejcm5,Ellectric card,Aug,2024,neutral,Other
+169,R_3hXr461SQHModf6,Gone woke and people are not happy with that. Many recalls in older models for air bags exploding. Quality and safety lowered while prices are way up,Aug,2024,negative,Branding
+170,R_6O9f1foJZb7tTZ0,A commercial about the Lincoln Navigator,Aug,2024,neutral,Product related
+171,R_1CNwMsLDFpTmStP,I have seen none,Aug,2024,neutral,Other
+172,R_7f21OHsgOtZ6iEi,better vehicle,Aug,2024,positive,Other
+173,R_6wYM89dsABtCtWh,ford on th rise,Aug,2024,positive,Other
+174,R_14P3QzPvAc9u2qH,New cars available for purchase,Aug,2024,neutral,Product related
+175,R_5curktQst34F7Kn,television ad,Aug,2024,neutral,Other
+176,R_2X9pqOWPUbo0tuV,Their latest products with unique features,Aug,2024,positive,Product related
+177,R_7jDntB1B6FsMWuS,Mustang automobiles. I owned a Mustang. When I see an ad I pay attention,Aug,2024,positive,Branding
+178,R_3DvUyYWTs9NqSpb,I saw many favorite story,Aug,2024,positive,Other
+179,R_3ev5DkbzDzlbFBv,That the new CEO was going to announce some new autos that will be rolling out for the coming year,Aug,2024,neutral,Product related
+180,R_6dVUt66jW2AH9eg,"Air bags are not releading on high inpact, the say dont drive the car",Aug,2024,negative,Product related
+181,R_6CDcs2RWN9AgN07,The new environment lineup coming out,Aug,2024,neutral,Product related
+182,R_52JZb7KdkN4eq1U,That its built Ford tough,Aug,2024,positive,Branding
+183,R_5dAkOJIBPtLxtPX,That they have good vehicles,Aug,2024,positive,Other
+184,R_5FxucUSJ6R7uzh7,New vehicle,Aug,2024,neutral,Product related
+185,R_5rjKncomaky1sZ2,"I recall news stories about Ford Motor Company focusing on their shift towards electric vehicles, unveiling new models like the F-150 Lightning, and initiatives to enhance sustainability and innovation in their manufacturing processes.",Aug,2024,positive,Product related
+186,R_2pHW0rAN8JMl1KN,The only reason we got this was the first,Aug,2024,negative,Other
+187,R_5GZ1cZ60c6AXqLv,Ford motor company had a poor earning report and is losing more.,Aug,2024,negative,Organization feedback
+188,R_5wTYa27i4wCdzNL,some new vehicle information,Aug,2024,neutral,Product related
+189,R_3OTlq63WYKKxhsk,Drive thru rough terrain reliable,Aug,2024,positive,Product related
+190,R_31WmiWoajDNpusF,that ford is number one,Aug,2024,positive,Branding
+191,R_5JFo3v7PhA6PDOc,On social media,Aug,2024,neutral,Other
+192,R_6TDC7HoyttyAP8R,Turning out electric cars,Aug,2024,neutral,Electrification
+193,R_3RP5neAnAztY3Vs,best service,Aug,2024,positive,Other
+194,R_1meAbAyydFlj3d4,It was nice,Aug,2024,positive,Other
+195,R_7pZ5YvJw59LnG9P,they introduce many new idea for new product,Aug,2024,positive,"New technology, unique features or services"
+196,R_3P0eJYetOol4PnB,Bulit Ford Tough,Aug,2024,positive,Other
+197,R_7cIUPVmdxLsFcFr,they were cutting back at one of the plants,Aug,2024,negative,Corporate issues
+198,R_301yNJjRmHJncEb,Tv,Aug,2024,neutral,Other
+199,R_7QMVhbNE6cTrA6f,its overstock of electric vehicles and chip shortages,Aug,2024,negative,Organization feedback
+200,R_53qo2W3V00TMdgv,Duct judicial brush duff Gucci bf f cert veggie cush sky,Aug,2024,neutral,Other
+201,R_7n1OXNDyYDqHxpR,That they are coming out with a cobra F150,Aug,2024,positive,Product related
+202,R_6noXv9tbJpjvRoL,the was an airbag recall for hundreds of thousands of vehicles.,Aug,2024,negative,Product related
+203,R_5uEBOJbEWVwIkza,Advertising trucks,Aug,2024,neutral,Other
+204,R_5KuRCizK0UoOHd2,That their electric trucks are not selling well,Aug,2024,negative,Other
+205,R_1DCsIuSe4pMdWOl,Most of their cars are not made in the USA,Aug,2024,negative,Other
+206,R_6NVyeBSHudtGaBW,That Ford will start making lower cost EVs in order to appeal to a broader customer base.,Aug,2024,positive,Product related
+207,R_5KlOPhyl6UpeMIj,Nothing,Aug,2024,neutral,Other
+208,R_1iAq7NRha4yadoZ,adding new lines to there pickup factories,Aug,2024,neutral,Product related
+209,R_5pPNpjf9svqbM0R,Earnings reported,Aug,2024,neutral,Organization feedback
+210,R_3OHItLjTsEeDC8s,Ford recalls vehicles because of steering issues,Aug,2024,negative,Product related
+211,R_5f9hWjnMF3qH7Oh,An advertisement for Ford Trucks on TV,Aug,2024,neutral,Other
+212,R_7NaZUveueTyfcrt,Electric vehicles are constantly improving,Aug,2024,positive,Other
+213,R_63EmA8v8cVy9w5A,Building more electrical cars,Aug,2024,positive,Electrification
+214,R_7nwpLo7lsXgRiij,They have announced a recall due to airbags also their not selling many new cars,Aug,2024,negative,Product related
+215,R_7g1kNc0IFmfkJwJ,I vaguely recall them demonstrating a new truck with better safety features.,Aug,2024,positive,Product related
+216,R_52nSbJyUifQFKwE,Recalls,Aug,2024,negative,Product related
+217,R_7QnhP8kvCpWjOh6,They had many recalls and quality control issues,Aug,2024,negative,Product related
+218,R_1FKYZcsNEugWgMK,A recall of cars with certain types of air bags.,Aug,2024,negative,Product related
+219,R_6DJ2kTidK0w22aJ,multi-billion dollar losses in its EV program have resulted in reductions in that program with some increased spending to expand its gasoline and hybrid vehicle program,Aug,2024,negative,Organization feedback
+220,R_6qfYvmZk1Kf4Jsx,They were discussing the issue related to electric cars,Aug,2024,neutral,Electrification
+221,R_1DMjbp6sn88l1jq,TATA airbags ford has issued a do not drive,Aug,2024,negative,Product related
+222,R_5pwffA34oKJFbaN,Issues with the air bags,Aug,2024,negative,Product related
+223,R_1Zj4C82TYKdUPkt,ads on tv for f150,Aug,2024,neutral,Product related
+224,R_3Km6zwVj6rzXzAR,Towing power,Aug,2024,neutral,Product related
+225,R_3t3xM96DEIR82di,They are making EVs,Aug,2024,neutral,Electrification
+226,R_7RmETyQOB5XdyJb,It said Ford was doing really good and they are up 3%.,Aug,2024,positive,Organization feedback
+227,R_7uE75W3F1Ba5mQz,corrupt idk,Aug,2024,negative,Other
+228,R_6DnJCaOk92Pfwza,The new Ford EV and hybrid cars that are being sold at dealerships.,Aug,2024,neutral,Product related
+229,R_7esAo03ifjkY5sf,Lessening EV and hybrid production in favor of gas guzzlers,Aug,2024,negative,Electrification
+230,R_3h0AWFOV4Su2y9Q,Their new F150,Aug,2024,neutral,Product related
+231,R_5LAlQEBJI5hPkNJ,Ad for financing at 0% for 3 of their vehicles,Aug,2024,positive,Product related
+232,R_3s5io4JNHmaU1at,"Ford trucks, having problems. Don’t remember details",Aug,2024,negative,Other
+233,R_1YPK46jh7f9uof4,"A recall, The doors on the car might mass up and to make an appointment to get it fixed",Aug,2024,negative,Product related
+234,R_6ECwq7IlnalsasN,I heard about wage increase for its employees.,Aug,2024,positive,Corporate issues
+235,R_1SqaGTLjFHmeqLl,Changing production away from electric trucks to make more gas powered trucks,Aug,2024,negative,Product related
+236,R_7j0PfmLDuhOknsv,Because It is nice and I like it.,Aug,2024,positive,Other
+237,R_7NKxKJtDJecWyhS,They aren’t making anything but teucjs,Aug,2024,negative,Product related
+238,R_1Rw7De2lrgXw4r7,They are donating,Aug,2024,positive,Other
+239,R_5Kp8dGjXP9WsDvN,Newer vehicles,Aug,2024,neutral,Product related
+240,R_7EyFq0NbgJeZmZV,It’s nice and amazing,Aug,2024,positive,Other
+241,R_3LXiHgeVm7qM7G9,about hiring more workers,Aug,2024,neutral,Corporate issues
+242,R_7Sfgo6OQCFmGuQh,getting people to buy their cars.,Aug,2024,neutral,Other
+243,R_5M6fYY76cayodtT,Great quality,Aug,2024,positive,Other
+244,R_5oAaBFIkPGdw9E3,Cutting jobs for America workers.,Aug,2024,negative,Corporate issues
+245,R_54U0T8hmIrTRxf3,I love everything about it,Aug,2024,positive,Other
+246,R_37bY9m0Ph35tQwV,They issued a ‘do not drive’ warning for many vehicles,Aug,2024,negative,Product related
+247,R_1qe2POrsZx4nMhJ,The new vehicles,Aug,2024,neutral,Product related
+248,R_6anqPuM5unHWUI2,Ford issued a do not drive on cars with Tamara airbags,Aug,2024,negative,Product related
+249,R_690tfVmF59f7m6I,recall,Aug,2024,negative,Product related
+250,R_5xOSX3czJfW7xiN,i read an article about their electric/hybrid vehicles,Aug,2024,neutral,Electrification
+251,R_6f5i86yzfHqynbr,Yes it was an article I came across online,Aug,2024,neutral,Other
+252,R_7uTCSPztr2OXS5b,,Aug,2024,neutral,Other
+253,R_3f3pDsVLwBLGlwM,Stock price drop,Aug,2024,negative,Organization feedback
+254,R_1rTafD85qT9IloL,It was describing how ford was built tough,Aug,2024,positive,Product related
+255,R_11HF7Ap5UkMDfl5,Dont know,Aug,2024,neutral,Other
+256,R_6CCxzmsGVojHIuQ,More environmental friendly,Aug,2024,positive,Organization feedback
+257,R_5joCKJSSxU53NSW,I heard that people arent buying the new EVs they have built & recall on some vehicles,Aug,2024,negative,Electrification
+258,R_5MLlSgXPEtWwNIy,I dont remember what it was about,Aug,2024,neutral,Other
+259,R_5JRDQhlA4ZWVSNE,I heard about Ford new innovation and the Ford new electric truck.,Aug,2024,positive,"New technology, unique features or services"
+260,R_1WIs1D4U4DYfw4C,Driving a ford,Aug,2024,neutral,Other
+261,R_3HdSjn2C6yUhe75,New seriee,Aug,2024,neutral,Product related
+262,R_79cIpvnydLsAXDP,Nothing comes to mind,Aug,2024,neutral,Other
+263,R_6Yi7VBl7kH4Oimm,About newly 2025 vehicles being made and cutting back on pollution,Aug,2024,positive,Product related
+264,R_7w46kUpuavKKIm2,Dont remember,Aug,2024,neutral,Other
+265,R_1cCrhPoCXji5rzi,Everything,Aug,2024,neutral,Other
+266,R_1VQpXywoa2LzL8F,Showing the current financing deal on lease,Aug,2024,neutral,Organization feedback
+267,R_6ExXFmYGt1jHINt,Just a news story about a affordable electric vehicle,Aug,2024,neutral,Product related
+268,R_3SphkV1MHR6bIKa,I read how Ford is contributing the most they can to society through bad inflation times.,Aug,2024,positive,Other
+269,R_7OcysBjtcBEI0BF,150 trucks,Aug,2024,neutral,Other
+270,R_5Uhfwew9XHW16hC,"it was basically, advertising.",Aug,2024,neutral,Other
+271,R_7l027tgMTFVwSyB,All the time,Aug,2024,neutral,Other
+272,R_5vLgdvX0Z1M7nON,Best company in the country,Aug,2024,positive,Other
+273,R_14klFMqobESAnrf,I can’t recall,Aug,2024,neutral,Other
+274,R_6a9SWI8Gmvso06b,tv f 150,Aug,2024,neutral,Other
+275,R_5gpXw3XCoLocX0A,Nothing really interesting,Aug,2024,negative,Other
+276,R_1NrFrtuBS3eRpHm,F-150 is still the best selling truck,Aug,2024,positive,Product related
+277,R_6dQjEyUCjwO0pdo,About the efficiency from each of these models,Aug,2024,neutral,Product related
+278,R_1ry5PH1KSXKtbCp,strong running vehicle,Aug,2024,positive,Other
+279,R_6DvBrhj3LSIBzAC,The new Maverick truck,Aug,2024,neutral,Product related
+280,R_6WD5ejKLa46dunf,f150 truck is leader in its field.,Aug,2024,positive,Product related
+281,R_61HsNFWFXweUdPw,Production schedule models,Aug,2024,neutral,Product related
+282,R_7J5lLue8xoxR9Wd,Cannot remember,Aug,2024,neutral,Other
+283,R_39d3MdQsx8RVDxL,The story was that they were announcing the new Ford Explorer,Aug,2024,neutral,Product related
+284,R_77sCi2XhuZNfx5H,It was about how the Biden Administration had caused Ford to lose over 4 billion dollars.,Aug,2024,negative,Organization feedback
+285,R_1p3WEs0xAiSVxcJ,Just thier general  earning,Aug,2024,neutral,Organization feedback
+286,R_77DS1Cd9dJ0mFZY,Investors in the Ford Motor Company are trying to contact lawyers before early October to discuss their rights.,Aug,2024,negative,Organization feedback
+287,R_8frG9FWbCJ7UfVd,About the latest vehicle with great technological advancements,Aug,2024,positive,Product related
+288,R_5RsDul34pbE13Sa,,Aug,2024,neutral,Other
+289,R_5MZkLbWP3g81EVq,very well,Aug,2024,positive,Other
+290,R_3R8taudwJnEM9jX,Trustworthy and realizable with quality service and unique value,Aug,2024,positive,Other
+291,R_30jgF9NFGMttv6t,Trusted Company,Aug,2024,positive,Other
+292,R_2J94o2cv3g33TjM,The overall quality is great,Aug,2024,positive,Product related
+293,R_6rA57FaZ8ahgnI9,Just commercials,Aug,2024,neutral,Other
+294,R_1Gm6rXlsetVnaI9,Good,Aug,2024,positive,Other
+295,R_6wTAOKP1uDgZOOs,Their new EV vehicles,Aug,2024,neutral,Electrification
+296,R_3dGhamk8MsL3R6j,They are a leading,Aug,2024,positive,Other
+297,R_3Aw1SC9WcApJinf,they have a new line of vehicles,Aug,2024,neutral,Product related
+298,R_1JZqSKPpO6NyIrn,The product and how it performed,Aug,2024,neutral,Product related
+299,R_1Xh7vBKQ0VhEtnL,How they were done making cars,Aug,2024,negative,Other
+300,R_12GiUsPskhC4GsQ,There was a delay in Ford building an EV battery plant in Kentucky,Aug,2024,negative,Product related
+301,R_5ZBDNZD5Dd0tPJD,Commercial ads on TV showing the lates vehicles with their features and powertrains.,Aug,2024,neutral,Product related
+302,R_5MlnU3DNPU6kGAN,Ford is working on 0 emmissions by 2052,Aug,2024,positive,Organization feedback
+303,R_6FKX8snVM5BpTze,The new vehicles that are available this year.,Aug,2024,neutral,Product related
+304,R_7GDjgiN0gM06i1b,Ive heard about new vehicles available and the summer sales event through TV advertising,Aug,2024,neutral,Product related
+305,R_3RXktL7PgLcJR7j,Its all positive. I love the Ford motor Company,Aug,2024,positive,Branding
+306,R_1hyDHVo1qQcTS4W,they are labor rich,Aug,2024,neutral,Corporate issues
+307,R_1oi13yE90BqhkWZ,That Ford was beginning to do new things but also have a major recall on their cars.,Aug,2024,negative,Product related
+308,R_5W5G9FFnDNAZDDb,Recalls,Aug,2024,negative,Product related
+309,R_6BZIExEkuWTy7fP,Products,Aug,2024,neutral,Other
+310,R_57ORiaSZ2isL60M,New cars coming out,Aug,2024,neutral,Product related
+311,R_7HbEQMkN2yNrl78,New truck,Aug,2024,neutral,Product related
+312,R_34GUM76eu3xLa84,The news is that Ford has reduced producation of the F-150 lighting electric pickup truck.,Aug,2024,negative,Electrification
+313,R_7R3WBlrrpz7mSnW,Ad for a truck,Aug,2024,neutral,Product related
+314,R_750qYQkJuzedZ6h,Ford is doing better,Aug,2024,positive,Organization feedback
+315,R_6k0yoRZdAeWjE4N,no sorry,Aug,2024,neutral,Other
+316,R_1oe8MxBsoHihMII,Power of the trucks,Aug,2024,positive,Product related
+317,R_5MSN3YscYyg41lX,Laying off and closing some businesses,Aug,2024,negative,Corporate issues
+318,R_3wHr4T10uuBdfyM,Air bag recall,Aug,2024,negative,Product related
+319,R_5dJOPkq9gIb26aZ,Electric vehicles were to expensive to produce and sell,Aug,2024,negative,Organization feedback
+320,R_3sdKOWaRUDppmDm,It was about new products.,Aug,2024,neutral,Product related
+321,R_1YoEYLA2iU4Dqj7,Story was anout delaying EV commitments,Aug,2024,negative,Electrification
+322,R_3rphfl6qQxArTcQ,Advertising for their products,Aug,2024,neutral,Other
+323,R_1jV6qG2cLghYIpm,that they are trying to have an all-electric fleet by 2030,Aug,2024,positive,Electrification
+324,R_7iIKwsta7bMkxDL,a recall,Aug,2024,negative,Product related
+325,R_60SxTZKQJum22pE,Where Ford and Mazda has issued do-not-drive warnings for vehicles with takata airbags,Aug,2024,negative,Product related
+326,R_7yeAX8VzvDEAdrk,Was about the new model F150 coming out on how great it is.,Aug,2024,positive,Product related
+327,R_35GCuGgaodysvuh,The new mustang,Aug,2024,neutral,Product related
+328,R_1P4VXOaMDZsoHyU,New Ford trucks,Aug,2024,neutral,Product related
+329,R_3Cgrvwcj5aWtsw1,New vehicles,Aug,2024,neutral,Product related
+330,R_7sobjz8AqO7B352,I dont remember,Aug,2024,neutral,Other
+331,R_1qVtMcRkEuahz2X,Just having new cars out,Aug,2024,neutral,Product related
+332,R_3IGh8pAf7c3qCJl,They are a great american company that is popular.,Aug,2024,positive,Branding
+333,R_5RfFEHNttzQOxw5,It was a recall notice on the news,Aug,2024,negative,Product related
+334,R_6JemLOlcyCL4kGY,recall,Aug,2024,negative,Product related
+335,R_5RFn6gmkLS7kJ4l,How they are having engine problems,Aug,2024,negative,Product related
+336,R_6JfoYMcWouFJQbI,They run only on regular gasoline,Aug,2024,neutral,Other
+337,R_6J3s7hhc2V1rIxY,Nothing about that you got to get back,Aug,2024,neutral,Other
+338,R_3IWBJufesJvdUhV,It was a documetary.,Aug,2024,neutral,Other
+339,R_6ZuSqwA3FHmS8P7,I believe that the stock was headed towards a level decline.,Aug,2024,negative,Organization feedback
+340,R_6qJEvli3IDIyBDX,New cars and motors,Aug,2024,neutral,Product related
+341,R_7AaitUkpC0c0gLL,The new dark house being promoted rn,Aug,2024,neutral,Product related
+342,R_5gOym2rieVAd6dR,Trucks,Aug,2024,neutral,Other
+343,R_5iWucA6bwZWfqEf,New technology on cars,Aug,2024,neutral,"New technology, unique features or services"
+344,R_12apOnxce2VAisB,A commercial,Aug,2024,neutral,Other
+345,R_37SiGcDJTV04Zrj,It was about their line of trucks,Aug,2024,neutral,Product related
+346,R_6QxV8UpKjVcLJ4n,closing factory in Michigan,Aug,2024,negative,Corporate issues
+347,R_6Q6M3sQGMzE4Hst,Nothing,Aug,2024,neutral,Other
+348,R_1FnZNrJKOwLurf3,"Not good, problem to produce ev cars",Aug,2024,negative,Organization feedback
+349,R_1I3K2m3GQudjzNj,I saw suv moving with full speed in a forest,Aug,2024,neutral,Other
+350,R_2P67xoJKlUfMdmg,They update the cars,Aug,2024,neutral,Other
+351,R_6ESVgezzjTVm7FU,How reliable their new cars versus old models are.,Aug,2024,neutral,Product related
+352,R_3mB6ci7Xzfybehj,,Aug,2024,neutral,Other
+353,R_3F54GHEO4D7KDlY,Brand new vehicles,Aug,2024,neutral,Product related
+354,R_5rcwfUFkT7TZFq1,Nothing new,Aug,2024,neutral,Other
+355,R_6QGy7EoSfzNbCeA,quality service,Aug,2024,positive,Other
+356,R_1HDQ79yDD2bWL3X,I heard about the new Coyote engine.,Aug,2024,neutral,Product related
+357,R_6IWsROmR5fZM79N,I was just reading up on the history of Ford and how it’s one of America’s top automotive companies,Aug,2024,positive,Other
+358,R_3oFSyFskXouR9y1,It was just a commercial,Aug,2024,neutral,Other
+359,R_5Cp2V4tTdY1XodF,I read that kia is going to produce new SUV,Aug,2024,neutral,Product related
+360,R_3lGfJOoUmGQb2Cu,New cars that they are coming up with that’s what inheard,Aug,2024,neutral,Product related
+361,R_6h5sHHiDmZ99CSZ,Ford new mustang that is all ev as well as other models going ev soon,Aug,2024,positive,Electrification
+362,R_6kNPXUM9UIaWyTy,Yes,Aug,2024,neutral,Product related
+363,R_3IY7NuwCKivhmOQ,The are trying to full electric,Aug,2024,neutral,Electrification
+364,R_5g7uxGghhEe0wCZ,I heard that they are creating a brand new vehicle that will change cars forever,Aug,2024,positive,Product related
+365,R_6Kuy4snl81to0k0,Because i love it,Aug,2024,positive,Other
+366,R_7m2BVKKZE0CDPdO,Commercial,Aug,2024,neutral,Other
+367,R_64nANTQsB2piUQp,Well because its a reliable company and its a good way to help improve your vehicle.,Aug,2024,positive,Branding
+368,R_5zF9GCHpV5HeF6p,The maverick,Aug,2024,neutral,Product related
+369,R_1v5wUx6kKsxvKrT,In an article published about Henry Ford,Aug,2024,neutral,Other
+370,R_6G6xy8SWBwNysNK,Good cars,Aug,2024,positive,Other
+371,R_1fnYXojZWQtBrNv,"i enjoyed this a  lot,.",Aug,2024,positive,Other
+372,R_7lruTQZAb88DpwZ,"I saw an ad during a televised sport game.  I do not remember much of it, but I remember the logo.",Aug,2024,neutral,Branding
+373,R_3r08hQxqAo5HBw4,major air bag recall told drivers not to use their vehicles,Aug,2024,negative,Product related
+374,R_50UavlHsqpXDuSd,The new vehicles theyre making,Aug,2024,neutral,Product related
+375,R_3xXo5NjDQ9EjXPK,About ford maverick,Aug,2024,neutral,Product related
+376,R_3AKczkVYQqaJYSi,The news story was about Ford Motor Company introducing new vehicles.,Aug,2024,neutral,Product related
+377,R_633WharqgwayMSJ,About easier in gas,Aug,2024,neutral,Other
+378,R_31jsM4tdBFwadrW,Recalls,Aug,2024,negative,Product related
+379,R_5MrrCrNJAL4qx45,It was a story about some of the workers wanting to start a union,Aug,2024,neutral,Corporate issues
+380,R_1huVllSa2HXeM5X,Ford strike is over and negotiations ended,Aug,2024,positive,Corporate issues
+381,R_3GxKLKqj9VzAXpy,Several commercials.,Aug,2024,neutral,Other
+382,R_7jr8lZ6gTfamHFD,New EV plant,Aug,2024,neutral,Product related
+383,R_6zJ0EDwLspwQnD3,that the motor of ford territory are chinese and all the old models had problems with the direction,Aug,2024,negative,Product related
+384,R_3FXgWiMoakGy5sB,No,Aug,2024,negative,Other
+385,R_1F68rE1oHqhQwSd,New electric Ford,Aug,2024,neutral,Product related
+386,R_6W4HiDLHZBgIGSl,How ford is built to last,Aug,2024,positive,Product related
+387,R_3lRpDKDmpK3gIYq,I saw a television advertisement showing trucks in the wilderness.,Aug,2024,neutral,Other
+388,R_6LYlIYFjJwhAQtS,Good vehicle,Aug,2024,positive,Other
+389,R_1imMH42xvFezI6j,no,Aug,2024,negative,Other
+390,R_37dLaaIFJ0BpWGd,There new trucks,Aug,2024,neutral,Product related
+391,R_57kfmHJIXnrnxKh,New vehicles,Aug,2024,neutral,Product related
+392,R_3Lxu2j5LG6EAjnj,How they plan on making a electric car one day,Aug,2024,positive,Electrification
+393,R_7XbB2jwDNUgCyfa,About trying to make their vehicles safer for the American consumer,Aug,2024,positive,Product related
+394,R_7f0Breetu2PEXF0,That it is striving for excellence,Aug,2024,positive,Other
+395,R_7tf1CymZFsmB5zF,About there new evs,Aug,2024,neutral,Electrification
+396,R_1hFJ2QOqaZU3gh5,I read about Ford mustangs,Aug,2024,neutral,Product related
+397,R_1QnD8O2FtX7M1TC,Tecnología,Aug,2024,neutral,Other
+398,R_6IafN6J41ERS50X,new truck,Aug,2024,neutral,Product related
+399,R_5SpnFLc0KpfygXj,Nothing important,Aug,2024,neutral,Other
+400,R_1sXWMsCQIx1jYHa,,Aug,2024,neutral,Other
+401,R_6r0WZ1ebNlk1Kal,I am feeling good.,Aug,2024,positive,Other
+402,R_1PbmRuVT244ebS1,A quick advertisement for a newer model for sale,Aug,2024,neutral,Product related
+403,R_7Siy77nw8FRArUQ,About new cars there making,Aug,2024,neutral,Product related
+404,R_3CZ0SHnD12oK3Mc,Google,Aug,2024,neutral,Other
+405,R_7repVrk7GjhVkSK,Ford commercial  always pops up as a youtube add,Aug,2024,negative,Other
+406,R_5lREPMuybwZACGJ,Because i seen dealership,Aug,2024,neutral,Other
+407,R_3rYRh9fZ5WgReF0,A loving story of a man helping a woman out with his ford f150 anf got her unstuck,Aug,2024,positive,Other
+408,R_5L8965c1oLZ7jfq,New cars being released in 2025,Aug,2024,neutral,Product related
+409,R_3PWtiRgRw9OZ3ot,New car,Aug,2024,neutral,Product related
+410,R_70uVKza4SwNX5Tq,The overall quality is great,Aug,2024,positive,Product related
+411,R_5LNYeRui1C9IliN,New truck about to be released,Aug,2024,neutral,Product related
+412,R_5QWCFbTCWD4aoHM,about a new truck being relesed,Aug,2024,neutral,Product related
+413,R_1a8rFJaV5gP2UmA,Goid news.,Aug,2024,positive,Other
+414,R_1Ops4P0RaLyo6oF,advertising about the new teritory walk,Aug,2024,neutral,Product related
+415,R_6cwZMgtohZhbTi1,An article explaining new safety measures they incorporated into their vehicles that prevent car thefts. I forget the technology but it intrigued me as I spoke with friends who had their vehicles stolen some days prior.,Aug,2024,positive,Product related
+416,R_3IblA0tLdIXYPAM,Just an ad,Aug,2024,neutral,Other
+417,R_3D80FopjY58w8Wn,They are having major deals on cars,Aug,2024,positive,Other
+418,R_6jZiDpE0FWHDueZ,I don’t remember,Aug,2024,neutral,Other
+419,R_3IZ6COQt2KHByjs,"Theyre losing much money on EVs, and have had many problems with expensive recalls.",Aug,2024,negative,Organization feedback
+420,R_58wBD29peEmzngd,About a sale on all their new EV’s.,Aug,2024,positive,Product related
+421,R_6FRpnpC55Y3S9oV,That they were trying to change certain aspects of the company to make it more efficient.,Aug,2024,positive,Other
+422,R_5qb1XaMc2cEqLtv,The new square body design on the aluminum body design on the truck series.,Aug,2024,neutral,Product related
+423,R_7iQR7nKqrkZM67T,Advertising new trucks,Aug,2024,neutral,Product related
+424,R_8gut0zutTkL0ZAd,Ads,Aug,2024,neutral,Other
+425,R_16IfXfzVm4zJTqx,They are coming out with electric car,Aug,2024,neutral,Electrification
+426,R_5vSgLJEaYSX2GgF,Their expanding,Aug,2024,neutral,Other
+427,R_7yOTkYmPMzTKokV,it was an advertisement for their e-truck,Aug,2024,neutral,Electrification
+428,R_4jOrGTHNWxUmaUX,Yes very good its very like,Aug,2024,positive,Other
+429,R_3RLsTSOxBmzAxRD,Something about recalls on air bags,Aug,2024,negative,Product related
+430,R_80uZ8rQqQ8kNATW,"Newest car, driving in snowy terrain.",Aug,2024,neutral,Product related
+431,R_61XjfTPWl3QUpOS,very well,Aug,2024,positive,Other
+432,R_5KJgk7ND2L72449,No,Aug,2024,negative,Other
+433,R_62masyXiuEX8QEH,It was about their end of sale,Aug,2024,negative,Other
+434,R_3UKWi2UG9Os2rD3,A new bronco,Aug,2024,neutral,Product related
+435,R_1bH48UjYSrSkACw,It is very unique,Aug,2024,positive,Other
+436,R_6uVEd4jA5YH4xvj,I dont think they put the money on the phone with these,Aug,2024,negative,Other
+437,R_12ssC6g24VRVfc5,Airbag recall,Aug,2024,negative,Product related
+438,R_1fp6yPKrXoTIn9I,I read that Lincoln was a reliable vehicle.,Aug,2024,positive,Product related
+439,R_6dS6GK85e4VwsW5,They bought the factory,Aug,2024,neutral,Other
+440,R_2Ke3P8D92xUUjf3,Selection of new model vehicles,Aug,2024,neutral,Product related
+441,R_64AAeXa04Iowrh7,That they are top lead car company,Aug,2024,positive,Branding
+442,R_6vZTRZTZQyFbPSV,I heard ford is rolling out a new line of more affordable vehicles for damilies,Aug,2024,positive,Product related
+443,R_7CxADqFmcuI9H4R,I heard that the creator is racist,Aug,2024,negative,Other
+444,R_1Vr85qAekGk7FQY,It’s about the new features in the new models,Aug,2024,neutral,Product related
+445,R_1P52Lb9VxWCyQNB,There newest Sedan that is coming out,Aug,2024,neutral,Product related
+446,R_6UKLd2kBhZHCZwZ,Ford is required by federal law to make more electric vehicles.,Aug,2024,neutral,Electrification
+447,R_5jp4oD3IffVPFyc,they are hiring more people,Aug,2024,positive,Corporate issues
+448,R_5YLprM6l9NtVkaJ,Very reliable,Aug,2024,positive,Product related
+449,R_5k7NmuIZi1iy8Df,Nothing comes to mind,Aug,2024,neutral,Other
+450,R_3d6NgzydnReMm3d,Don’t remember,Aug,2024,neutral,Other
+451,R_7En5Pnj6kMhMf60,just they are doing good.,Aug,2024,positive,Other
+452,R_7cS0fSZVczP93ep,It good,Aug,2024,positive,Other
+453,R_6fUiMfNQGOcoaZH,That the technology is approving,Aug,2024,positive,Other
+454,R_6P7NUla4U7w4Egi,Nascar,Aug,2024,neutral,Other
+455,R_7QgFWVGI4h86Md9,It was about how good it was and their newest vehicle,Aug,2024,positive,Product related
+456,R_7odwPvAJEck1kci,"Ford is creating a new vehicle designed for law enforcement, coming out in 2025.",Aug,2024,neutral,Product related
+457,R_79nUyXE0V1WdiSw,New truck,Aug,2024,neutral,Product related
+458,R_5PuiBH6XMPIaUep,"No, i dont remember",Aug,2024,neutral,Other
+459,R_3pLwsDz562xzvcZ,Upcoming new vehicles,Aug,2024,neutral,Product related
+460,R_6Xvd0Dle9NRLjlT,the only way i could be happy with the fact i can be a good friend is,Aug,2024,positive,Other
+461,R_1wKybXgFyHxB72V,The accurate of the company,Aug,2024,neutral,Other
+462,R_5gZLyc0k7FWuEMQ,I have read Ford is opening new factories.,Aug,2024,positive,Product related
+463,R_5EKEGvgpdbpq0B9,Broadcst TV,Aug,2024,neutral,Other
+464,R_3L08IOkTBZszS6Q,Recalls,Aug,2024,negative,Product related
+465,R_7CjtekWx3UgBvrX,"Safety, technology, durability",Aug,2024,neutral,Other
+466,R_7rLPlc0p1JFxJKh,About their new lineup of vehicles that is coming out,Aug,2024,neutral,Product related
+467,R_6nCY5c1j1ZGUX9S,that it was exapanding,Aug,2024,neutral,Other
+468,R_3t9fVWP70zFU9iP,It has a good fit for motor that make a good fit because it ba sa good fit to make an s good offers to use their services to fit,Aug,2024,positive,Other
+469,R_1n0P0NNv5Ijvesp,Great,Aug,2024,positive,Other
+470,R_3P3eupNFhLpNxFT,No trucks out,Aug,2024,negative,Other
+471,R_3xPUgaWXhF2HQCB,Something about a union,Aug,2024,neutral,Corporate issues
